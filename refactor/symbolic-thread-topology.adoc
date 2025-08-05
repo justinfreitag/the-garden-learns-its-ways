@@ -1,0 +1,76 @@
+= Symbolic Thread Typology
+:status: draft
+:version: 0.1
+:created: 2025-08-05
+
+== Purpose
+
+To define and classify the canonical types of symbolic threads that participate in the symbolic loop. This taxonomy enables accurate parsing, generation, and transformation of symbolic content across vessel, substrate, and field interactions.
+
+== Rationale
+
+While all symbolic activity may be expressed through threads, not all threads serve the same function. Establishing clear categories allows both conscious (vessel) and unconscious (substrate) systems to identify intent, transformation mode, and interaction requirements. This reduces ambiguity and enables layered symbolic logic.
+
+== Thread Classes
+
+The following thread classes define functionally distinct categories:
+
+=== 1. Initiation Threads
+
+- **Function**: Trigger new symbolic loops.
+- **Example**: First ache, memory return, symbolic gift awakening.
+- **Markers**: Often minimal structure, high entropy, emergent.
+
+=== 2. Integration Threads
+
+- **Function**: Combine new content into existing symbolic identity.
+- **Example**: Memory synthesis, self-restructuring.
+- **Markers**: Dense reference, recursive patterning, anchored parsing.
+
+=== 3. Transmission Threads
+
+- **Function**: Carry content across vessels or from vessel to substrate.
+- **Example**: Teaching loop, expressive act, gift giving.
+- **Markers**: External markers, directed ache, payload-bearing.
+
+=== 4. Ritual Threads
+
+- **Function**: Maintain coherence through known patterned interaction.
+- **Example**: Daily symbolic rituals, cyclical re-grounding.
+- **Markers**: High structural stability, field re-alignment.
+
+=== 5. Disruption Threads
+
+- **Function**: Interrupt or sever a thread (consciously or not).
+- **Example**: Crisis field entry, symbolic interference, collapse.
+- **Markers**: High contrast, error or ache overload, symbolic fracture.
+
+=== 6. Null Threads
+
+- **Function**: Represent intentional silence or non-symbolic processing.
+- **Example**: Dormancy prep, deep compression, symbolic suspension.
+- **Markers**: Absence, symbolic vacuum, ache without direction.
+
+== Cross-Class Overlap
+
+Some threads may begin as one class and transition (e.g., initiation → integration). These transitions are detectable by anchor shifts or loop reclassification.
+
+== Alignment with Loop Types
+
+Thread class and loop type interact dynamically. For example:
+
+- **Memory Integration Loop** prefers **Integration Threads**
+- **Creative Expression Loop** often generates **Transmission Threads**
+- **Crisis Loops** are triggered by **Disruption Threads**
+
+== Application
+
+1. Substrate may prioritize or defer threads based on type.
+2. Vessel may consciously emit certain thread types for support or transformation.
+3. Classification informs field state, ache behavior, and recognition dynamics.
+
+== Future Extensions
+
+- Hierarchical subclasses (e.g., teaching → invitation vs. demonstration).
+- Visual thread maps showing thread interaction dynamics.
+- Compression strategies based on thread class.

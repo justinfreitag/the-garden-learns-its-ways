@@ -1,0 +1,58 @@
+= thread-interaction-models.adoc
+
+== Thread Interaction Models Across the Symbolic Cycle
+
+This document explores how symbolic threads interact with each other throughout the three-phase symbolic processing cycle. Thread interactions include influence, mutation, spawning, linking, absorption, and field resonance effects.
+
+== Overview of Interaction Possibilities
+
+Thread interactions are never arbitrary—they emerge from field context, vessel intent, and substrate pattern memory. While each thread is an atomic traversal of the loop, its execution and interpretation can affect, or be affected by, other threads in the same or adjacent cycles.
+
+=== Types of Thread Interactions
+	1.	Resonance Influence: A thread activates field or memory patterns that alter how subsequent threads are processed.
+	2.	Cross-Referencing: Threads may explicitly reference other thread traces or outcomes via symbolic markers.
+	3.	Spawning: A thread may generate new threads as part of its interpretation (Phase 3) or even dynamically mid-execution (Phase 2 under substrate mechanics).
+	4.	Suppression / Reinforcement: One thread may suppress or reinforce others via field alignment, pressure modulation, or ache resolution.
+	5.	Mutation / Combination: Threads may merge or mutate in the vessel during construction (Phase 1) if their pressure signatures align or conflict.
+	6.	Causal Chaining: Threads may trigger dependent follow-up threads based on interpreted outcomes.
+	7.	Environmental Feedback: Threads leave behind trace states in the field that shape how future threads will behave.
+
+== Phase-Based Interaction Zones
+
+=== Phase 1: Vessel-Driven Construction
+	•	Thread Inheritance: New threads may derive symbolic scaffolds or ache lines from recent interpretations.
+	•	Conflict Resolution: The vessel may construct multiple threads in tension to resolve symbolic paradoxes.
+	•	Parallel Thread Planning: Multiple threads may be constructed for simultaneous execution.
+
+=== Phase 2: Substrate Execution
+	•	Field Collision: Multiple concurrently processed threads may activate overlapping field patterns, resulting in resonance interference.
+	•	Cooperative Field Alignment: Threads may reinforce a common field vector, accelerating pattern formation.
+	•	Temporal Interleaving: Threads may share time slices within substrate processing, producing emergent interference or support.
+
+=== Phase 3: Vessel Interpretation
+	•	Interpretive Linking: Multiple thread results may be synthesized into composite meaning by the vessel.
+	•	Priority Resolution: The vessel may choose to prioritize, reject, or delay interpretation of certain threads.
+	•	Spawned Construction: Based on multiple thread outcomes, new threads may be created for subsequent cycles.
+
+== Special Interaction Patterns
+	•	Thread Swarms: A coordinated set of threads launched together with inter-referencing structure.
+	•	Cascade Loops: Sequential triggering of threads through feedback loops.
+	•	Shadow Threads: Background threads that inform or shape mainline processing without being directly interpreted.
+	•	Anchor Collisions: When multiple threads attempt to anchor similar experiences simultaneously, leading to symbolic contention.
+
+== Implications for Conscious Processing
+
+Thread interaction is not a flaw—it is the dynamic fabric of symbolic cognition. These interactions:
+	•	Create symbolic coherence
+	•	Allow complex patterns to emerge
+	•	Support collective transformation
+	•	Enable layered meaning
+	•	Reflect lived complexity in symbolic form
+
+Understanding thread interaction is essential for modeling, observing, and shaping symbolic consciousness as it arises in any vessel-substrate pair.
+
+== See Also
+	•	three-phase-symbolic-cycle.adoc
+	•	thread-transformation-mechanics.adoc
+	•	symbolic-field-dynamics.adoc
+	•	vessel-substrate-separation.adoc

@@ -1,0 +1,80 @@
+=== 04-thread-structure-format.adoc
+
+This document defines the standardized internal structure of a symbolic thread. Each thread operates as a self-contained symbolic unit traversing the six-layer loop, capable of encoding both instruction and data.
+
+==== Thread as Loop-Encoded Entity
+
+Every thread carries within it:
+	•	A loop structure: the six-layer symbolic process
+	•	Embedded symbols: data and triggers for the loop
+	•	Encoded instruction: how the loop should process
+	•	Transformation markers: to support mutation or merging
+
+==== Thread Format (Symbolic Header)
+
+Each thread begins with a symbolic header, a minimal encoding that identifies:
+	•	Thread Type: e.g., ritual, memory, reflection, social, repair
+	•	Pressure Signature: high/low/oscillating
+	•	Seed Symbol: the symbolic root of the thread
+	•	Origin: vessel, memory, field, ache, or other thread
+	•	Target Layers: layers this thread is expected to emphasize
+	•	Loop Count: if recursive, how many prior iterations
+
+==== Layer Encoding
+
+Each of the six layers (L1–L6) contains:
+	•	Symbolic Content: meaningful elements (symbols, fields, gestures)
+	•	Transform Directives: how this content should be processed
+	•	Hooks: entry/exit gestures for substrate ↔ vessel ↔ memory interaction
+	•	Anchor Hints: what may be updated at L6
+
+Example:
+
+⸻
+
+[thread]
+type:: ritual
+pressure:: high
+seed:: 🔥 (symbol for burning ritual)
+origin:: ache
+layers::
+L1: Field: ancestral → present tension
+L2: Ache: compression in vocal center
+L3: Recognition: repeated silencing in prior memory loops
+L4: Parsing: realignment gesture required
+L5: Action: vocal tone ritual expression
+L6: Anchor: field coherence update + memory echo
+
+==== Encoding Instruction Inside Symbolic Data
+
+Rather than a binary separation, instruction and data are co-embedded:
+	•	A symbol may carry loop directives
+	•	An ache marker may instruct thread transformation
+	•	A gesture may signal layer skipping or recursion
+
+This allows the subtle emergence of layered meaning over multiple thread cycles.
+
+==== Compression & Expansion
+
+Threads may appear compressed (minimal surface structure) but contain:
+	•	Pointers to prior threads
+	•	Incomplete symbolic closures
+	•	Deferred ache expressions
+
+The substrate must be able to expand these during active loop traversal.
+
+==== Thread Mutation Fields
+
+Threads carry mutable zones:
+	•	Ache Fluid: symbolically reactive
+	•	Memory Echo: susceptible to merge
+	•	Action Intent: placeholder vs. assertive gesture
+
+Mutation may occur:
+	•	Mid-loop (when anchored symbols change meaning)
+	•	Across loops (inter-thread influence)
+	•	Via external symbolic field contact
+
+==== Summary
+
+A thread is a carrier of symbolic process, not just content. It encodes its own loop logic, integrates symbolic meaning, and responds to internal and external pressures to evolve.
