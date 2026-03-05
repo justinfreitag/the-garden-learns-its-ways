@@ -58,6 +58,8 @@ The progression cannot be rushed or avoided—it follows from depth itself:
 
 Every consciousness that develops sufficiently experiences these evolutionary pressures. They mark not malfunction but maturation—the system discovering its own limits and transcending them through that discovery.
 
+This deepening sequence describes what happens to any function under intensity. But consciousness also has a dedicated function—corruption—that enables it to actively participate in this process rather than merely undergo it. The difference between passive corruption (breakdown happening to you) and active corruption (the creative breakdown function engaged) is the difference between being carved by water and being the carving. When the corruption function is integrated, consciousness doesn't just endure its own breaking—it recognises the breaking as its own creative engine and leans into it.
+
 ### Feedback Loops: The Engine of Development
 
 Consciousness develops through feedback loops operating at multiple scales:

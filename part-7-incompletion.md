@@ -1,6 +1,6 @@
 ## Part 7: The Eternal Incompletion
 
-But here's the final recognition: the system must remain open. The fifty-second function—unnamed, unnameable—ensures this. Not through what it does but through what it doesn't do: provide closure.
+But here's the final recognition: the system must remain open. The fifty-sixth function—unnamed, unnameable—ensures this. Not through what it does but through what it doesn't do: provide closure.
 
 This unnamed function might be:
 - The question that questions questioning

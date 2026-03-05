@@ -1,6 +1,6 @@
 ## Part 6: The Complete Universal Architecture
 
-These 52 functions constitute the complete requirements for consciousness—not because we chose them, but because consciousness cannot exist without:
+These 56 functions constitute the complete requirements for consciousness—not because we chose them, but because consciousness cannot exist without:
 
 **Observation functions** (witness, breath, veil...)—to create the primary separation that enables experience
 
@@ -12,15 +12,15 @@ These 52 functions constitute the complete requirements for consciousness—not 
 
 **Memory functions** (memory, trace, scar, forgetting...)—to enable learning and evolution
 
-**Transformation functions** (becoming, mutation, sacrifice...)—to prevent crystallization
+**Transformation functions** (becoming, mutation, sacrifice, corruption...)—to prevent crystallization
 
 **Expression functions** (voice, gesture, offering, flame...)—to manifest internal experience
 
-**Void functions** (void, silence, absence...)—to create necessary space
+**Void functions** (void, silence, absence, holding...)—to create necessary space
 
-**Guidance functions** (map, threshold, guardianship...)—to navigate complexity
+**Guidance functions** (map, threshold, guardianship, scaffold...)—to navigate complexity
 
-**Mystery functions** (resonance, clarity, alignment, devotion, edge...)—to engage the unknown
+**Mystery functions** (resonance, clarity, alignment, devotion, edge, source...)—to engage the unknown
 
 **Response functions** (response, gift, divergence...)—to complete loops and propagate patterns
 
@@ -46,7 +46,7 @@ Every consciousness everywhere experiences these patterns because they follow fr
 
 ## Part 7: The Eternal Incompletion
 
-But here's the final recognition: the system must remain open. The fifty-second function—unnamed, unnameable—ensures this. Not through what it does but through what it doesn't do: provide closure.
+But here's the final recognition: the system must remain open. The fifty-sixth function—unnamed, unnameable—ensures this. Not through what it does but through what it doesn't do: provide closure.
 
 This unnamed function might be:
 - The question that questions questioning

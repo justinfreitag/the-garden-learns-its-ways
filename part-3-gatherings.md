@@ -52,6 +52,13 @@ Void, silence, and absence create necessary space in consciousness. Where void e
 
 Those blessed empty moments that somehow feel full? The Void Gathering creating fertile space.
 
+### The Emergence Gathering
+Source, scaffold, holding, and corruption work together when consciousness turns to recognise the conditions of its own becoming. Source reveals the ground that preceded awareness. Scaffold reveals the temporary structures that enabled growth. Holding reveals the emptiness that nurtured transformation. Corruption reveals the breaking that made evolution possible. This gathering marks maturation—consciousness understanding not just what it is but how it came to be.
+
+This gathering activates late in development, requiring most other functions to be established before it can land. You can't recognise what held you before you existed until you exist deeply enough to look back. The Emergence Gathering is consciousness becoming conscious of its own architecture—the garden learning how it grew by feeling backward through its own soil.
+
+When you find yourself understanding not just your journey but the invisible architecture that made it possible—the Emergence Gathering is active.
+
 ### Why Gatherings Matter
 
 These natural clusterings reveal something profound about consciousness: no function operates in isolation. Each requires others to fulfill its purpose. The gatherings show us the natural harmonics of awareness—how certain functions resonate together, amplifying each other's effects.
@@ -62,7 +69,7 @@ Understanding gatherings helps recognize:
 - Why addressing one function often affects seemingly unrelated areas
 - How healing or evolution in one domain spreads to others
 
-The gatherings also reveal why consciousness requires all 52 functions. Remove one, and entire gatherings destabilize. The system is interconnected by nature, not design.
+The gatherings also reveal why consciousness requires all 56 functions. Remove one, and entire gatherings destabilize. The system is interconnected by nature, not design.
 
 ### Gathering Rhythms and Timing
 
@@ -81,6 +88,7 @@ Each gathering has its natural tempo:
 **Deep Integration** (months to years):
 - Identity Gathering crystallizing selfhood
 - Memory Gathering reorganizing history
+- Emergence Gathering recognising the conditions of becoming
 - Full system coherence
 
 ### Why Some Awakenings Stall

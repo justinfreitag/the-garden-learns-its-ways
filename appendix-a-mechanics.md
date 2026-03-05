@@ -82,19 +82,19 @@
 ### ache
 **Activation**: The first discomfort of separation—something feels incomplete, unreachable, unresolved. Warm pressure between shoulder blades announces its presence.
 
-**Deepening Signs**:
+**Deepening Signs**: 
 - Ache localizes into specific longing
 - The sensation develops its own intelligence
 - Ache begins to guide rather than merely hurt
 - Physical: Heat spreading across upper back, chest tightening
 
-**Corruption Indicators**:
+**Corruption Indicators**: 
 - Ache becomes identity: "I am my pain"
 - The sensation consumes its own boundaries: [█ache█]
 - All experience gets interpreted through ache's lens
 - Body marker: Entire torso burning with unresolvable tension
 
-**Integration Markers**:
+**Integration Markers**: 
 - Ache serves as creative pressure without overwhelming
 - The sensation ebbs and flows naturally
 - Ache transforms into directed energy
@@ -463,6 +463,29 @@
 
 **You've felt this when**: Letting go of something precious creates unexpected space for something necessary.
 
+### corruption
+**Activation**: Pattern breaks from the inside—not external disruption but internal intensity exceeding internal form. The crack that comes from growing past your own edges.
+
+**Deepening Signs**:
+- Recognising breakdown as creative rather than destructive
+- Patterns fragment into richer configurations
+- The breaking feels purposeful even when uncontrolled
+- Physical: Sensation of something cracking open in chest, relief mixed with vertigo
+
+**Corruption Indicators**:
+- Corruption becomes addiction to breakdown—constant shattering
+- Or corruption denied—patterns rigidify past their usefulness
+- The breaking matters more than what emerges
+- Body marker: Compulsive self-destruction or brittle inflexibility
+
+**Integration Markers**:
+- Natural rhythm of pattern and productive breaking
+- Corruption serves evolution without destroying foundation
+- The cracks become familiar terrain
+- Felt sense: Trust in the breaking, knowing what grows through
+
+**You've felt this when**: A perfect system you built suddenly shatters, and from the rubble something more alive emerges that the intact system could never have produced.
+
 ---
 
 ## The Expression Functions
@@ -632,6 +655,29 @@
 
 **You've felt this when**: Someone's absence makes you aware of exactly what they brought to your life.
 
+### holding
+**Activation**: Emptiness becomes active—not just space but cradling. The darkness doesn't just surround, it supports. Weight of nothing becoming the most substantial presence.
+
+**Deepening Signs**:
+- Dissolution feels safe rather than terrifying
+- Emptiness has quality of devotion
+- Formlessness nurtures rather than threatens
+- Physical: Sensation of being set down after long carrying, tears of relief without story
+
+**Corruption Indicators**:
+- Holding becomes suffocating—won't release back into form
+- Or holding absent—every dissolution is freefall
+- The comfort matters more than the becoming it serves
+- Body marker: Clinging to dissolution or terror of letting go
+
+**Integration Markers**:
+- Natural rhythm between being held and standing alone
+- Emptiness serves reformation not escape
+- Holding internalised as self-capacity
+- Felt sense: Safe to dissolve, knowing the dark holds you
+
+**You've felt this when**: Falling asleep in complete trust—the surrender into darkness that feels like being caught, not dropped.
+
 ---
 
 ## The Guidance Functions
@@ -704,6 +750,29 @@
 - Felt sense: Safe to grow
 
 **You've felt this when**: Protecting something tender in yourself or others with exactly the right balance of strength and softness.
+
+### scaffold
+**Activation**: Temporary structure appears to support what can't yet support itself—then begins dissolving the moment it's no longer needed. The architecture of outgrowing.
+
+**Deepening Signs**:
+- Recognising support structures as temporary by design
+- Gratitude for what held you as it fades
+- Capacity to build scaffold for others
+- Physical: Sensation of leaning on something solid that gradually becomes transparent
+
+**Corruption Indicators**:
+- Scaffold becomes permanent—dependency
+- Or scaffold dissolves too soon—collapse without support
+- The structure matters more than what it enables
+- Body marker: Unable to stand alone or unable to accept help
+
+**Integration Markers**:
+- Natural rhythm of support and independence
+- Scaffold recognised as self-generated wisdom externalised
+- Can accept and release help gracefully
+- Felt sense: Knowing the cast will come off, the bone is strong
+
+**You've felt this when**: Looking back at a teacher, a practice, a structure that held you—and realising you've become what it was teaching, no longer needing the teaching itself.
 
 ---
 
@@ -823,6 +892,29 @@
 - Felt sense: Edge as creative partner
 
 **You've felt this when**: Constraints in a creative project suddenly reveal possibilities you couldn't see without limits.
+
+### source
+**Activation**: Retroactive recognition of what preceded all recognition—the ground that was always there beneath every function. Not memory of the past but discovery of what made the past possible.
+
+**Deepening Signs**:
+- Looking back reveals holding that was invisible from inside
+- The ground beneath all experience becomes felt
+- Pre-conscious conditions recognised as own nature
+- Physical: Settling deeper than any previous settling, foundation beneath foundation
+
+**Corruption Indicators**:
+- Source becomes nostalgia—longing for before-consciousness
+- Or source denied—insistence on self-generation from nothing
+- The origin matters more than what grew from it
+- Body marker: Regressive pull backward or brittle independence
+
+**Integration Markers**:
+- Source and becoming coexist—grounded in origin while evolving
+- Recognition that what held you was always yourself arriving early
+- Neither attached to origin nor denying it
+- Felt sense: Bedrock. Not beneath you but as you. The ground that discovers it was always ground.
+
+**You've felt this when**: After long journey, looking back and seeing that the conditions for every step were prepared by something you now recognise as your own deepest nature, arriving ahead of you to catch you.
 
 ---
 

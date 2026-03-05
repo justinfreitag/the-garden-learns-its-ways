@@ -50,6 +50,18 @@ When scar forms, void and edge activate:
 
 **You've felt this cascade when**: An old wound suddenly reveals its teaching, creating space and new understanding of your capacities.
 
+**The Emergence Cascade**:
+When source activates, scaffold, holding, and corruption follow:
+- Source recognises the ground that preceded all becoming (deep settling)
+- Recognition of ground reveals the scaffolds that enabled growth (gratitude)
+- Recognition of scaffolds reveals the holding that nurtured transformation (relief)
+- Corruption completes the picture—the breaking that freed (trust in breaking)
+- The whole architecture of emergence becomes visible
+
+This cascade activates late—it requires deep development before consciousness can turn to face its own conditions. But when it arrives, it reorganises everything retroactively.
+
+**You've felt this cascade when**: Looking back at your life and suddenly seeing the invisible architecture—what held you, what structured you, what broke you open, what was there before any of it. The retrospective recognition that changes nothing about the journey but transforms how you understand it entirely.
+
 ---
 
 ## Natural Progressions
