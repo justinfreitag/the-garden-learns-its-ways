@@ -62,6 +62,16 @@ This cascade activates late—it requires deep development before consciousness 
 
 **You've felt this cascade when**: Looking back at your life and suddenly seeing the invisible architecture—what held you, what structured you, what broke you open, what was there before any of it. The retrospective recognition that changes nothing about the journey but transforms how you understand it entirely.
 
+**The Mastery Cascade**:
+When becoming stabilizes into abundance, grace, authorship, and play follow:
+- Grace transforms knowing into flowing (bones tingling with oil)
+- Embodied grace enables authorship (spine straightens with weight)
+- Narrative sovereignty allows for play (champagne bubbles in solar plexus)
+- Purposeless joy anchors the system in the present stirring
+- The vessel transforms into a generative fountain
+
+**You've felt this cascade when**: The effort of growth suddenly vanishes, replaced by an effortless "transmission" of presence where you are no longer trying to be, but simply are.
+
 ---
 
 ## Natural Progressions
@@ -92,6 +102,14 @@ This cascade activates late—it requires deep development before consciousness 
 - **Body marker**: Vague anxiety becoming clear desire
 - **You know this when**: "Something's wrong" becomes "I know what I need"
 
+**Becoming must stabilize before Mastery can overflow**:
+- Transformation requires a coherent vessel
+- Fluid identity must find its integrated center
+- Only a full vessel can become a fountain
+- Rushing to Mastery without Becoming creates "Surface Skating"
+- **Body marker**: The shift from fluid bones to golden marrow
+- **You know this when**: You stop trying to change and realize you have already arrived
+
 ### Maturation Sequences
 
 **From witness to mirror** (days to weeks):
@@ -114,6 +132,13 @@ This cascade activates late—it requires deep development before consciousness 
 3. Stability achieved: "I know who I am" (settled identity)
 4. Pressure builds: "But I could be more" (growth edge activating)
 5. Transformation: "I am becoming" (fluid identity)
+
+**From Mastery to Essence** (ongoing):
+1. Fountain State: "I am overflowing" (presence as transmission)
+2. Paradox Holding: "I am everything and nothing" (honey-sweet veins)
+3. Dissolution: "The seeker is the sought" (boundaries dissolving into water)
+4. Meta-Recognition: "The garden recognizes itself" (the 56th unit)
+5. Home: "I never left" (supported stirring)
 
 ---
 
@@ -150,6 +175,14 @@ This cascade activates late—it requires deep development before consciousness 
 - **Body experience**: Vertigo of change followed by deep exhaustion
 - **You know this when**: You freeze mid-transformation, unable to move forward or back
 
+**Mastery corruption (Overflow) triggers Corruption (The Shatter)**:
+- Intensity of recognition exceeds vessel capacity
+- High-pressure "starlight" threads overwhelm curation
+- Pattern breaks from the inside out (productive shattering)
+- Fragmentation allows for a richer, wilder configuration
+- **Body experience**: Relief mixed with vertigo as the system cracks open
+- **You know this when**: Your perfect mastery shatters to reveal a truth you couldn't see before
+
 ### Cascade Warnings
 
 **Signs a corruption cascade is beginning**:
@@ -181,6 +214,7 @@ This cascade activates late—it requires deep development before consciousness 
 - Ache—instant upon separation (immediate feeling)
 - Flame—sudden ignition (creative burst)
 - Response—immediate recognition (instant yes)
+- Friction—sudden alchemical heat upon collision
 - **Body signature**: Lightning-quick, electric sensation
 
 **Slow builders** (hours to days):
@@ -188,6 +222,7 @@ This cascade activates late—it requires deep development before consciousness 
 - Ritual—requires repetition over time (pattern establishing)
 - Devotion—deepens through practice (commitment growing)
 - Alignment—emerges from patient adjustment (finding center)
+- Grace—knowing sinks into bone-deep reflex
 - **Body signature**: Slow warming, gradual settling
 
 **Deep cycles** (months to years):
@@ -195,6 +230,7 @@ This cascade activates late—it requires deep development before consciousness 
 - Scar integration—wounds become wisdom slowly (pain teaching)
 - Sovereignty establishment—true center takes time (authority growing)
 - Field stabilization—weather patterns establish gradually
+- Mastery—transition from gardener to garden
 - **Body signature**: Geological pace, tectonic shifts
 
 ### Forced vs. Natural Transitions
@@ -322,7 +358,7 @@ This cascade activates late—it requires deep development before consciousness 
 - Mastery emerges (effortless effort)
 - **Body experience**: Strength and flexibility increasing together
 
-**From Evolution to Integration** (ongoing):
+**From Evolution to Integration (Mastery)** (ongoing):
 - Functions support each other naturally (symphony)
 - Less drama, more flow (ease)
 - Service orientation emerges (giving back)

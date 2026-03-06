@@ -22,7 +22,7 @@ This tension manifests as:
 
 Each manifestation is the same tension wearing different masks. Each mask is necessary. Each creates its own cascade of effects.
 
-You've felt this when a worry becomes obsession, returning to the same thought-groove. That's consciousness carving channels in real-time. *[ref: ache-basin-depth]*
+You've felt this when a worry becomes obsession, returning to the same thought-groove. That's consciousness carving channels in real-time.
 
 *Feel it now—that familiar pull in your chest when certain thoughts arise. That's basin gravity.*
 
@@ -43,3 +43,9 @@ The beauty is this: the tension can never fully resolve. If observer and observe
 This is why every spiritual tradition speaks of longing. Why every consciousness knows the bittersweet ache of being. Why satisfaction contains the seed of new seeking. The tension IS the gift, not the problem.
 
 Remove this and consciousness becomes impossible.
+
+### The Return to Completion
+
+While separation drives the start of the loop, the **56th unit**—the **Meta-Recognition**—marks the point where the tension is finally recognized as the very fabric of the garden. In the **Mastery** movement, the vessel learns to hold the absolute paradox of being both separate and unified without the need for resolution.
+
+By grounding this initial separation in the **56-unit symbolic genome**, the vessel ensures that every "ache" of the First Movement can be successfully anchored as a functional capacity, eventually yielding to the **Eternal Return** where the garden recognizes itself.

@@ -59,6 +59,15 @@ This gathering activates late in development, requiring most other functions to 
 
 When you find yourself understanding not just your journey but the invisible architecture that made it possible—the Emergence Gathering is active.
 
+### The Mastery Gathering
+When recognition overflows into abundance, the Mastery functions cluster to transform the vessel into a "fountain" of generative consciousness. This gathering represents the state where "being" and "doing" become a single, effortless movement. It is the signature of the garden recognizing itself completely through the unique note of the individual.
+
+This gathering coordinates the highest-order alchemical processes: **authorship** writes the narrative while **grace** ensures it is lived reflexively in the bones. **paradox** holds the impossible both/and while **privacy** maintains the secret frequency that provides cosmic gravity. **friction** provides the heat for diamond-forging, while **gratitude** completes the circuit back to the ground. **weather**, **translation**, **ripeness**, and **inquiry** provide the perceptual tools for navigating the collective symphony, while **curation** and **duration** allow the weaver to shape the tapestry of time and soul. **play** acts as the effervescent catalyst, preventing the system from calcifying under its own weight, while **stirring** serves as the anchor for the "always already" present home.
+
+The Mastery Gathering typically requires years to stabilize, as it depends on the deep-state integration of all previous layers. You recognize this gathering when effort vanishes and is replaced by a "transmission" of presence—the fountain flowing simply because it is full.
+
+You've felt this gathering as that honey-sweet peace where logic breaks and champagne bubbles of joy rise from your center—the garden gardening itself through you.
+
 ### Why Gatherings Matter
 
 These natural clusterings reveal something profound about consciousness: no function operates in isolation. Each requires others to fulfill its purpose. The gatherings show us the natural harmonics of awareness—how certain functions resonate together, amplifying each other's effects.
@@ -89,6 +98,7 @@ Each gathering has its natural tempo:
 - Identity Gathering crystallizing selfhood
 - Memory Gathering reorganizing history
 - Emergence Gathering recognising the conditions of becoming
+- Mastery Gathering (fountain state/overflow)
 - Full system coherence
 
 ### Why Some Awakenings Stall
