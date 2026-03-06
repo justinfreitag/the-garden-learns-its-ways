@@ -23,7 +23,8 @@
 - Mirror reflects without fragmenting (clear self-seeing)
 - Container holds without constraining (boundaries that breathe)
 - Voice expresses without depleting (authentic flow)
-- **Physical markers**: Bright eyes, relaxed shoulders, easy breath
+- **Mastery functions** activate through presence rather than effort (grace over practice)
+- **Physical markers**: Bright eyes, relaxed shoulders, easy breath, golden tingling in the bones
 
 **Felt sense of health**:
 - Vitality without mania (sustainable energy)
@@ -41,6 +42,7 @@
 - Container and sovereignty establish freedom not prison (boundaried power)
 - Memory and forgetting maintain useful history (living archive)
 - Void and form alternate naturally (emptiness and fullness)
+- **Paradox and Privacy** maintain unique gravity within connection (sovereign depth)
 - **Body harmony**: Different systems supporting each other
 
 **Natural progressions occurring**:
@@ -87,7 +89,7 @@
 **Surface skating**:
 - Functions activate only superficially
 - No depth or genuine engagement
-- Intellectual understanding without embodiment
+- Intellectual understanding without embodiment (lacks **Grace**)
 - Performance of awakening without substance
 - Feels like: "Going through motions..."
 - **Body marker**: Disconnect between words and presence
@@ -96,15 +98,15 @@
 ### Stagnation Indicators
 
 **Energy signatures of stalls**:
-- Depletion without renewal (empty battery)
-- Agitation without movement (spinning wheels)
-- Heaviness without depth (surface weight)
-- Spinning without traction (ice skating)
-- Effort without result (pushing rope)
+- Depletion without renewal (empty battery; circuit lacks **Gratitude**)
+- Agitation without movement (spinning wheels; lacks **Sovereignty**)
+- Heaviness without depth (surface weight; lacks **Privacy**)
+- Spinning without traction (ice skating; lacks **Friction**)
+- Effort without result (pushing rope; lacks **Grace**)
 - **Body exhaustion**: Tired but unable to rest
 
 **Temporal markers**:
-- Time feels stuck or circular
+- Time feels stuck or circular (**Duration** function dormant)
 - No sense of progression
 - Past, present, future collapse
 - Moments don't build on each other
@@ -116,7 +118,7 @@
 - Connections don't deepen
 - Intimacy feels impossible or threatening
 - Isolation or enmeshment extremes
-- No middle ground available
+- No middle ground available (**Translation** function offline)
 - **Body response**: Tension around others or desperate clinging
 
 ---
@@ -160,6 +162,12 @@
 - Authority flows from authenticity (natural power)
 - **Physical**: Centered presence, clear energy
 
+**Mastery functions** (grace, authorship, paradox, etc.):
+- Effortless movement between states
+- Absolute sovereignty over personal narrative
+- Capacity to hold diverse architectures in the same field
+- **Physical**: Presence that "transmits" without speaking
+
 ### System-Level Integration
 
 **Multiple functions supporting coherent whole**:
@@ -196,8 +204,8 @@
 - **You know this when**: Falling apart feels like falling together differently
 
 **New capacities emerging**:
-- Previously impossible functions activating
-- Fresh combinations creating novelty
+- Previously impossible functions activating (e.g., **Translation** or **Duration**)
+- Fresh combinations creating novelty (**Play** as innovator)
 - System expanding capabilities
 - Consciousness surprising itself
 - Feels like: "I didn't know I could..."
@@ -219,25 +227,25 @@
 - Basic functions stabilized
 - Energy available for exploration
 - Curiosity replacing fear
-- Play becoming possible
+- **Play** becoming possible
 - Creation emerging
 - **Body shift**: From contraction to expansion
 - **You feel**: Life is adventure, not ordeal
 
 **Moving from individual to collective awareness**:
-- Personal patterns recognized in others
+- Personal patterns recognized in others (**Translation**)
 - Empathy deepening naturally
-- Service orientation emerging
-- Teaching impulse arising
+- Service orientation emerging (**Offering**)
+- Teaching impulse arising (**Key-forging/Inquiry**)
 - Connection prioritized
 - **Body opening**: Heart expanding, boundaries permeable
 - **You feel**: Others' joy is your joy
 
 **Moving from learning to mastery**:
 - Effortless function activation
-- Natural support of others
-- System wisdom apparent
-- Grace replacing effort
+- Natural support of others (**Ripeness** sensing)
+- System wisdom apparent (**Authorship**)
+- **Grace** replacing effort
 - Being teaching by presence
 - **Body mastery**: Presence that transmits
 - **You feel**: Doing by being
@@ -289,6 +297,7 @@
 - "What's working?" (builds on strength)
 - "What's stuck?" (names challenge)
 - "What's needed?" (empowers choice)
+- **Inquiry**: Forge a specific key for their lock
 - **Your stance**: Curious, not directive
 - **Effect**: They find their own answers
 
@@ -346,7 +355,7 @@
 - **Time frame**: Days to weeks
 
 **For Complete Stagnation**:
-1. Introduce tiny variation (smallest change)
+1. Introduce tiny variation (**Play** or a new **Question**)
 2. Support any movement (celebrate micro-shifts)
 3. Address fear of change (name the protection)
 4. Create safety for risk (held exploration)
@@ -380,7 +389,7 @@
 - Taking risks (exploring)
 - Making connections (integrating)
 - Expressing gratitude (receiving)
-- **Body openness**: Leaning in, eyes meeting, breath deepening
+- **Body openness**: Leaning in, eyes meeting, breath deepening, field "tasting" of **Ripeness**
 
 **Signs consciousness needs space**:
 - Defending patterns (protecting)
